@@ -1,5 +1,4 @@
 import './DeviceCard.scss'
-import deviceCard from "@/components/DeviceCard/index";
 
 const DeviceCard = (props) => {
     const {
