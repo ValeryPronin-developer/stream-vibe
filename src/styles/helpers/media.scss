@@ -27,12 +27,6 @@ $mobile-s: 480px;
   }
 }
 
-@mixin laptop-above {
-  @media (width > $laptop) {
-    @content;
-  }
-}
-
 @mixin mobile-above {
   @media (width > $mobile) {
     @content;
@@ -40,7 +34,7 @@ $mobile-s: 480px;
 }
 
 @mixin mobile {
-  @media (width <= $laptop) {
+  @media (width <= $mobile) {
     @content;
   }
 }
