@@ -46,7 +46,7 @@ const categoryItems = [
     },
 
     {
-        title: 'Actions',
+        title: 'Actions 2',
         images: [
             '/src/assets/images/categories/action/1.jpg',
             '/src/assets/images/categories/action/2.jpg',
@@ -55,7 +55,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Adventure',
+        title: 'Adventure 2',
         images: [
             '/src/assets/images/categories/adventure/1.jpg',
             '/src/assets/images/categories/adventure/2.jpg',
@@ -64,7 +64,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Comedy',
+        title: 'Comedy 2',
         images: [
             '/src/assets/images/categories/comedy/1.jpg',
             '/src/assets/images/categories/comedy/2.jpg',
@@ -73,7 +73,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Drama',
+        title: 'Drama 2',
         images: [
             '/src/assets/images/categories/drama/1.jpg',
             '/src/assets/images/categories/drama/2.jpg',
@@ -82,7 +82,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Horror',
+        title: 'Horror 2',
         images: [
             '/src/assets/images/categories/horror/1.jpg',
             '/src/assets/images/categories/horror/2.jpg',
@@ -92,7 +92,7 @@ const categoryItems = [
     },
 
     {
-        title: 'Actions',
+        title: 'Actions 3',
         images: [
             '/src/assets/images/categories/action/1.jpg',
             '/src/assets/images/categories/action/2.jpg',
@@ -101,7 +101,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Adventure',
+        title: 'Adventure 3',
         images: [
             '/src/assets/images/categories/adventure/1.jpg',
             '/src/assets/images/categories/adventure/2.jpg',
@@ -110,7 +110,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Comedy',
+        title: 'Comedy 3',
         images: [
             '/src/assets/images/categories/comedy/1.jpg',
             '/src/assets/images/categories/comedy/2.jpg',
@@ -119,7 +119,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Drama',
+        title: 'Drama 3',
         images: [
             '/src/assets/images/categories/drama/1.jpg',
             '/src/assets/images/categories/drama/2.jpg',
@@ -128,7 +128,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Horror',
+        title: 'Horror 3',
         images: [
             '/src/assets/images/categories/horror/1.jpg',
             '/src/assets/images/categories/horror/2.jpg',
@@ -138,7 +138,7 @@ const categoryItems = [
     },
 
     {
-        title: 'Actions',
+        title: 'Actions 4',
         images: [
             '/src/assets/images/categories/action/1.jpg',
             '/src/assets/images/categories/action/2.jpg',
@@ -147,7 +147,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Adventure',
+        title: 'Adventure 4',
         images: [
             '/src/assets/images/categories/adventure/1.jpg',
             '/src/assets/images/categories/adventure/2.jpg',
@@ -156,7 +156,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Comedy',
+        title: 'Comedy 4',
         images: [
             '/src/assets/images/categories/comedy/1.jpg',
             '/src/assets/images/categories/comedy/2.jpg',
@@ -165,7 +165,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Drama',
+        title: 'Drama 4',
         images: [
             '/src/assets/images/categories/drama/1.jpg',
             '/src/assets/images/categories/drama/2.jpg',
@@ -174,7 +174,7 @@ const categoryItems = [
         ]
     },
     {
-        title: 'Horror',
+        title: 'Horror 4',
         images: [
             '/src/assets/images/categories/horror/1.jpg',
             '/src/assets/images/categories/horror/2.jpg',
