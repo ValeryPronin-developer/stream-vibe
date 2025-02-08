@@ -52,7 +52,7 @@ const MoviesBanner = () => {
                     },
                 }}
                 navigationPosition="abs-bottom"
-                hasScrollBarOnMobile={false}
+                hasScrollbarOnMobile={false}
             >
                 {movieCards.map((movieCard, index) => (
                     <MovieBannerCard {...movieCard} key={index} />

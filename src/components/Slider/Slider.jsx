@@ -40,9 +40,10 @@ const Slider = (props) => {
         navigationTargetElementId = null,
         sliderParams = defaultSliderParams,
         isBeyondTheViewportOnMobileS,
-        hasScrollBarOnMobile = true,
+        hasScrollbarOnMobile = true,
         // '' (default) | 'abs-bottom'
         navigationPosition = '',
+        navigationMode,
         isNavigationHiddenMobile = true,
     } = props
 
@@ -59,7 +60,7 @@ const Slider = (props) => {
             <div className="slider__swiper swiper" data-js-slider-swiper="">
                 <ul className="slider__list swiper-wrapper">
                     {children.map((slide, index) => (
-                        <li className="sliderItem swiper-slide" key={index}>
+                        <li className="slider__item swiper-slide" key={index}>
                             {slide}
                         </li>
                     ))}
@@ -69,12 +70,13 @@ const Slider = (props) => {
             {!navigationTargetElementId && (
                 <SliderNavigation
                     className="slider__navigation"
+                    mode={navigationMode}
                     position={navigationPosition}
                     isHiddenMobile={isNavigationHiddenMobile}
                 />
             )}
 
-            {hasScrollBarOnMobile && (
+            {hasScrollbarOnMobile && (
                 <div
                     className="slider__scrollbar visible-mobile"
                     data-js-slider-scrollbar=""
