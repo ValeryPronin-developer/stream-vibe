@@ -18,35 +18,35 @@ const MovieDetails = (props) => {
 
     const castItems = [
         {
-            imgSrc: '/src/assets/images/people/1.jpg',
+            imgSrc: '/src/assets/images/people/people_1.jpg',
             imgAlt: 'Ivan Ivanov',
         },
         {
-            imgSrc: '/src/assets/images/people/2.jpg',
+            imgSrc: '/src/assets/images/people/people_2.jpg',
             imgAlt: 'Ivan Ivanov',
         },
         {
-            imgSrc: '/src/assets/images/people/3.jpg',
+            imgSrc: '/src/assets/images/people/people_3.jpg',
             imgAlt: 'Ivan Ivanov',
         },
         {
-            imgSrc: '/src/assets/images/people/4.jpg',
+            imgSrc: '/src/assets/images/people/people_4.jpg',
             imgAlt: 'Ivan Ivanov',
         },
         {
-            imgSrc: '/src/assets/images/people/5.jpg',
+            imgSrc: '/src/assets/images/people/people_5.jpg',
             imgAlt: 'Ivan Ivanov',
         },
         {
-            imgSrc: '/src/assets/images/people/6.jpg',
+            imgSrc: '/src/assets/images/people/people_6.jpg',
             imgAlt: 'Ivan Ivanov',
         },
         {
-            imgSrc: '/src/assets/images/people/7.jpg',
+            imgSrc: '/src/assets/images/people/people_7.jpg',
             imgAlt: 'Ivan Ivanov',
         },
         {
-            imgSrc: '/src/assets/images/people/1.jpg',
+            imgSrc: '/src/assets/images/people/people_1.jpg',
             imgAlt: 'Ivan Ivanov',
         },
     ]
