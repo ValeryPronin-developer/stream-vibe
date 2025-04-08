@@ -3,7 +3,7 @@ import path from "path"
 
 export default defineConfig({
     root: "",
-    base: "/stream-vibe/",
+    base: "/stream-vibe",
     public: "public",
     out: "dist",
     assets: {

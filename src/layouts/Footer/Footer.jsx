@@ -6,7 +6,7 @@ const Footer = () => {
         {
             title: 'Home',
             links: ['Categories', 'Devices', 'Pricing', 'FAQ'],
-            href: '/'
+            href: ''
         },
         {
             title: 'Movies',
@@ -61,7 +61,7 @@ const Footer = () => {
                                 <ul className="footer__menu-list">
                                     {links.map((link, index) => (
                                         <li className="footer__menu-item" key={index}>
-                                            <a href="/" className="footer__menu-link">
+                                            <a href="#" className="footer__menu-link">
                                                 {link}
                                             </a>
                                         </li>
@@ -80,7 +80,7 @@ const Footer = () => {
                     </p>
                     <div className="footer__extra-links">
                         {extraLinks.map((link, index) => (
-                            <a className="footer__extra-link" href="/" key={index}>
+                            <a className="footer__extra-link" href="#" key={index}>
                                 {link}
                             </a>
                         ))}

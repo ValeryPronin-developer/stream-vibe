@@ -17,7 +17,7 @@ const Hero = () => {
                     >
                         <img
                             className="hero__play-button-image"
-                            src="/play.svg"
+                            src="play.svg"
                             alt=""
                             width={470}
                             height={470}

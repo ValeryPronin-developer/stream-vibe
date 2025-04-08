@@ -14,7 +14,7 @@ const ShowBanner = () => {
                 TitleTag="h1"
                 description="When a young boy vanishes, a small town uncovers a mystery involving secret experiments,
                 terrifying supernatural forces and one strange little girl."
-                imgSrc="/src/assets/images/movie-banner/movie-banner_3.jpg"
+                imgSrc="src/assets/images/movie-banner/movie-banner_3.jpg"
                 isSmallPaddingY
             />
         </section>

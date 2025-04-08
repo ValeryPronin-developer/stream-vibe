@@ -18,7 +18,7 @@ const Socials = (props) => {
                         <Button
                             className="soc1als__link"
                             mode="black-10"
-                            href="/"
+                            href="#"
                             target="_blank"
                             label={label}
                             isLabelHidden

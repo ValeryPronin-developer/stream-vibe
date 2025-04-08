@@ -23,12 +23,12 @@ const PlanCard = (props) => {
             <div className="plan-card__actions">
                 <Button
                     label="Start Free Trial"
-                    href="/subscriptions"
+                    href="subscriptions"
                     mode="black-08"
                 />
                 <Button
                     label="Choose Plan"
-                    href="/subscriptions"
+                    href="subscriptions"
                 />
             </div>
         </div>

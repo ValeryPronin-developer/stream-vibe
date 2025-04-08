@@ -180,7 +180,7 @@ const MovieDetails = (props) => {
                             mode="black-08"
                             iconName="plus"
                             label="Add Your Review"
-                            href="/"
+                            href="#"
                         />
                     </header>
                     <Slider
@@ -258,7 +258,7 @@ const MovieDetails = (props) => {
                             <PersonCard
                                 name="Rishab Shetty"
                                 subtitle="From India"
-                                imgSrc="/src/assets/images/people/director.jpg"
+                                imgSrc="src/assets/images/people/director.jpg"
                             />
                         </div>
                         <div className="movie-details__group">
@@ -268,7 +268,7 @@ const MovieDetails = (props) => {
                             <PersonCard
                                 name="B. Ajaneesh Loknath"
                                 subtitle="From India"
-                                imgSrc="/src/assets/images/people/music.jpg"
+                                imgSrc="src/assets/images/people/music.jpg"
                             />
                         </div>
                     </div>

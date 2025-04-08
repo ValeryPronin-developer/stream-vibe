@@ -24,7 +24,7 @@ const Questions = () => {
             actions={(
                 <Button
                     label="Ask a Question"
-                    href="/support"
+                    href="support"
                 />
             )}
         >
